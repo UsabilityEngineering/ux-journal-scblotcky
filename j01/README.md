@@ -14,10 +14,9 @@ Tuesday and Thursday 8 AM - 1 PM and Saturday 8 AM - 4:30 PM.
 I had the option to either allow or silence notifications. I chose to allow notifications.
 For the specific app, I chose Microsoft Teams. I believed this would allow notifications from Microsoft Teams only in the hours I am at work every week.
 
+![9F13158B-AE11-4308-AC67-73208B63972C](https://github.com/user-attachments/assets/0f0b4083-57f2-42c9-8254-f3caf0b9dc22)
 
-![alt text](assets/286504A8-0769-4ECB-B2BF-4ED01C49B426.jpeg)
-
-![alt text](assets/9F13158B-AE11-4308-AC67-73208B63972C.jpeg)
+![286504A8-0769-4ECB-B2BF-4ED01C49B426](https://github.com/user-attachments/assets/700e836b-57ea-45f1-b173-3b1d2c869ed1)
 
 I thought my problems were gone and my life would be easier. 
 The next day at work, a coworker asked me, “Did you get my message?” I instantly checked the chat and sure enough, I had gotten a message from them and I received no actual notification. No vibrate, no ding, nothing.
@@ -28,8 +27,7 @@ Monday, Wednesday, Friday, Sunday 12 AM - 11:59 PM,
 Tuesday and Thursday 12 AM - 7:59 AM and 1:01 PM - 11:59 PM,
 Saturday 12 AM - 7:59 AM and 4:31 PM - 11:59 PM.
 
-
-![PersonalFocus](assets/31D45B23-6B73-4F35-B8B7-12AEA1D5F938.jpeg)
+![31D45B23-6B73-4F35-B8B7-12AEA1D5F938](https://github.com/user-attachments/assets/9e31b51f-dc84-4e8f-bf44-67dc87f148f0)
 
 This was already becoming a nuisance. 
 Now surely, I would receive notifications from Teams only when I am at work.
