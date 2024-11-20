@@ -29,7 +29,7 @@ Tuesday and Thursday 12 AM - 7:59 AM and 1:01 PM - 11:59 PM,
 Saturday 12 AM - 7:59 AM and 4:31 PM - 11:59 PM.
 
 
-![alt text](assets/31D45B23-6B73-4F35-B8B7-12AEA1D5F938.jpeg)
+![PersonalFocus](assets/31D45B23-6B73-4F35-B8B7-12AEA1D5F938.jpeg)
 
 This was already becoming a nuisance. 
 Now surely, I would receive notifications from Teams only when I am at work.
