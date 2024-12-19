@@ -10,7 +10,7 @@ Here's a picture of my dog Reshi:
 
 ## UX Team Project
 
-Coming soon.
+[Dynamic Scheduler]([https://github.com/ChicoState/ux-DynamicScheduler](https://chicostate.github.io/ux-DynamicScheduler/))
 
 ## UX Journal
 
